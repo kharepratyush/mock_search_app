@@ -1,0 +1,2001 @@
+dish,query,label
+pasta,spaghetti,1
+pizza,spaghetti,0
+taco,spaghetti,0
+fries,spaghetti,0
+burger,club sandwich,0
+steak,chicken taco,0
+sushi,grilled steak,0
+steak,thin crust pizza,0
+pasta,crispy fries,0
+salad,california roll,0
+salad,chicken wrap,0
+steak,california roll,0
+taco,chicken wrap,0
+taco,chicken wrap,0
+pasta,thin crust pizza,0
+sandwich,chicken wrap,0
+burger,chicken wrap,0
+burger,spaghetti,0
+pasta,grilled steak,0
+taco,thin crust pizza,0
+wrap,club sandwich,0
+salad,grilled steak,0
+steak,california roll,0
+pizza,grilled steak,0
+taco,cheeseburger,0
+wrap,caesar salad,0
+pasta,thin crust pizza,0
+pizza,club sandwich,0
+salad,club sandwich,0
+pizza,caesar salad,0
+steak,thin crust pizza,0
+pizza,grilled steak,0
+sandwich,crispy fries,0
+fries,spaghetti,0
+pizza,caesar salad,0
+steak,grilled steak,1
+pizza,california roll,0
+sushi,cheeseburger,0
+sandwich,spaghetti,0
+sushi,caesar salad,0
+taco,california roll,0
+taco,thin crust pizza,0
+wrap,grilled steak,0
+burger,spaghetti,0
+fries,chicken taco,0
+taco,grilled steak,0
+burger,cheeseburger,1
+steak,caesar salad,0
+fries,thin crust pizza,0
+pizza,caesar salad,0
+sandwich,caesar salad,0
+sushi,chicken taco,0
+burger,club sandwich,0
+wrap,california roll,0
+pizza,caesar salad,0
+pizza,club sandwich,0
+sushi,california roll,1
+sushi,chicken taco,0
+salad,crispy fries,0
+salad,club sandwich,0
+wrap,cheeseburger,0
+fries,chicken wrap,0
+sushi,california roll,1
+pizza,caesar salad,0
+salad,chicken taco,0
+salad,grilled steak,0
+burger,caesar salad,0
+fries,cheeseburger,0
+pasta,caesar salad,0
+sandwich,grilled steak,0
+burger,chicken taco,0
+taco,thin crust pizza,0
+sandwich,caesar salad,0
+burger,caesar salad,0
+salad,california roll,0
+steak,caesar salad,0
+fries,chicken taco,0
+sandwich,thin crust pizza,0
+sandwich,california roll,0
+salad,caesar salad,1
+fries,thin crust pizza,0
+salad,california roll,0
+pizza,chicken wrap,0
+burger,caesar salad,0
+taco,caesar salad,0
+taco,crispy fries,0
+fries,cheeseburger,0
+pizza,chicken wrap,0
+fries,club sandwich,0
+sushi,crispy fries,0
+wrap,chicken taco,0
+pizza,spaghetti,0
+burger,club sandwich,0
+fries,cheeseburger,0
+salad,caesar salad,1
+burger,thin crust pizza,0
+pasta,thin crust pizza,0
+taco,california roll,0
+wrap,caesar salad,0
+sandwich,chicken wrap,0
+wrap,crispy fries,0
+steak,caesar salad,0
+sushi,california roll,1
+pasta,spaghetti,1
+sandwich,caesar salad,0
+steak,spaghetti,0
+wrap,thin crust pizza,0
+sandwich,club sandwich,1
+steak,thin crust pizza,0
+fries,chicken taco,0
+taco,caesar salad,0
+taco,caesar salad,0
+sushi,club sandwich,0
+steak,grilled steak,1
+burger,spaghetti,0
+pizza,spaghetti,0
+salad,spaghetti,0
+salad,spaghetti,0
+salad,chicken wrap,0
+steak,spaghetti,0
+pasta,club sandwich,0
+burger,cheeseburger,1
+steak,grilled steak,1
+pizza,thin crust pizza,1
+burger,thin crust pizza,0
+fries,thin crust pizza,0
+sandwich,club sandwich,1
+sandwich,crispy fries,0
+fries,cheeseburger,0
+pasta,crispy fries,0
+fries,cheeseburger,0
+pizza,spaghetti,0
+pasta,chicken wrap,0
+steak,thin crust pizza,0
+fries,cheeseburger,0
+salad,crispy fries,0
+wrap,thin crust pizza,0
+sandwich,thin crust pizza,0
+fries,spaghetti,0
+steak,club sandwich,0
+sushi,spaghetti,0
+sandwich,california roll,0
+steak,california roll,0
+taco,california roll,0
+taco,caesar salad,0
+wrap,thin crust pizza,0
+burger,chicken taco,0
+steak,chicken wrap,0
+pizza,cheeseburger,0
+wrap,thin crust pizza,0
+taco,chicken wrap,0
+sushi,chicken taco,0
+pizza,chicken wrap,0
+steak,chicken taco,0
+fries,cheeseburger,0
+sandwich,grilled steak,0
+salad,grilled steak,0
+burger,thin crust pizza,0
+burger,spaghetti,0
+steak,cheeseburger,0
+steak,club sandwich,0
+sandwich,chicken taco,0
+pasta,chicken taco,0
+salad,california roll,0
+taco,cheeseburger,0
+fries,chicken taco,0
+pasta,chicken taco,0
+sushi,chicken wrap,0
+sushi,cheeseburger,0
+salad,crispy fries,0
+wrap,chicken wrap,1
+sushi,caesar salad,0
+pasta,crispy fries,0
+sandwich,thin crust pizza,0
+wrap,caesar salad,0
+burger,thin crust pizza,0
+sandwich,crispy fries,0
+taco,grilled steak,0
+pizza,club sandwich,0
+pizza,chicken taco,0
+sushi,cheeseburger,0
+steak,california roll,0
+taco,club sandwich,0
+salad,chicken taco,0
+salad,crispy fries,0
+pizza,chicken wrap,0
+burger,california roll,0
+sandwich,spaghetti,0
+burger,spaghetti,0
+wrap,california roll,0
+steak,grilled steak,1
+sushi,cheeseburger,0
+salad,spaghetti,0
+fries,caesar salad,0
+pasta,crispy fries,0
+burger,grilled steak,0
+pasta,chicken taco,0
+pizza,caesar salad,0
+fries,crispy fries,1
+pasta,grilled steak,0
+burger,chicken wrap,0
+taco,caesar salad,0
+burger,chicken taco,0
+pizza,thin crust pizza,1
+taco,thin crust pizza,0
+pizza,spaghetti,0
+pizza,club sandwich,0
+steak,spaghetti,0
+pasta,caesar salad,0
+pizza,cheeseburger,0
+steak,chicken taco,0
+salad,spaghetti,0
+taco,california roll,0
+taco,crispy fries,0
+pasta,club sandwich,0
+steak,thin crust pizza,0
+taco,caesar salad,0
+steak,chicken wrap,0
+salad,california roll,0
+salad,crispy fries,0
+pizza,cheeseburger,0
+salad,thin crust pizza,0
+burger,spaghetti,0
+sandwich,chicken taco,0
+taco,crispy fries,0
+fries,club sandwich,0
+steak,grilled steak,1
+burger,caesar salad,0
+sandwich,crispy fries,0
+taco,spaghetti,0
+wrap,california roll,0
+fries,crispy fries,1
+steak,crispy fries,0
+fries,grilled steak,0
+sandwich,club sandwich,1
+pasta,chicken wrap,0
+pasta,crispy fries,0
+fries,california roll,0
+sushi,chicken taco,0
+salad,crispy fries,0
+salad,thin crust pizza,0
+taco,grilled steak,0
+salad,caesar salad,1
+steak,thin crust pizza,0
+sandwich,club sandwich,1
+pizza,chicken taco,0
+burger,spaghetti,0
+fries,caesar salad,0
+steak,california roll,0
+pizza,caesar salad,0
+taco,chicken wrap,0
+steak,crispy fries,0
+pasta,spaghetti,1
+taco,california roll,0
+burger,thin crust pizza,0
+pizza,club sandwich,0
+sushi,cheeseburger,0
+sandwich,spaghetti,0
+burger,grilled steak,0
+taco,club sandwich,0
+sandwich,cheeseburger,0
+salad,chicken wrap,0
+salad,grilled steak,0
+fries,grilled steak,0
+burger,chicken taco,0
+steak,thin crust pizza,0
+salad,crispy fries,0
+taco,club sandwich,0
+burger,chicken taco,0
+taco,grilled steak,0
+sandwich,grilled steak,0
+wrap,chicken taco,0
+sandwich,chicken wrap,0
+steak,spaghetti,0
+sushi,cheeseburger,0
+sushi,grilled steak,0
+pizza,club sandwich,0
+pasta,thin crust pizza,0
+fries,california roll,0
+pasta,grilled steak,0
+fries,cheeseburger,0
+steak,california roll,0
+pizza,thin crust pizza,1
+fries,chicken wrap,0
+taco,chicken wrap,0
+pasta,california roll,0
+wrap,club sandwich,0
+sandwich,chicken taco,0
+steak,caesar salad,0
+pasta,grilled steak,0
+sushi,chicken taco,0
+pizza,spaghetti,0
+steak,california roll,0
+fries,cheeseburger,0
+salad,caesar salad,1
+burger,caesar salad,0
+sandwich,caesar salad,0
+sandwich,spaghetti,0
+salad,spaghetti,0
+pizza,thin crust pizza,1
+pasta,grilled steak,0
+salad,california roll,0
+sushi,crispy fries,0
+sandwich,crispy fries,0
+pizza,california roll,0
+fries,caesar salad,0
+salad,california roll,0
+salad,california roll,0
+wrap,chicken taco,0
+taco,crispy fries,0
+taco,caesar salad,0
+burger,grilled steak,0
+pasta,club sandwich,0
+pasta,club sandwich,0
+burger,chicken taco,0
+steak,club sandwich,0
+salad,chicken wrap,0
+pasta,chicken wrap,0
+wrap,chicken taco,0
+pizza,caesar salad,0
+sushi,caesar salad,0
+salad,california roll,0
+burger,crispy fries,0
+fries,thin crust pizza,0
+wrap,caesar salad,0
+pizza,crispy fries,0
+pasta,spaghetti,1
+burger,crispy fries,0
+burger,spaghetti,0
+burger,chicken taco,0
+salad,chicken taco,0
+sushi,cheeseburger,0
+taco,california roll,0
+burger,chicken wrap,0
+pasta,chicken taco,0
+fries,thin crust pizza,0
+taco,spaghetti,0
+wrap,caesar salad,0
+pasta,thin crust pizza,0
+wrap,club sandwich,0
+sandwich,crispy fries,0
+steak,spaghetti,0
+sandwich,california roll,0
+burger,grilled steak,0
+salad,california roll,0
+taco,chicken taco,1
+salad,crispy fries,0
+burger,crispy fries,0
+taco,california roll,0
+sandwich,california roll,0
+burger,caesar salad,0
+wrap,grilled steak,0
+fries,thin crust pizza,0
+taco,club sandwich,0
+pizza,thin crust pizza,1
+salad,grilled steak,0
+sandwich,thin crust pizza,0
+wrap,thin crust pizza,0
+sushi,chicken wrap,0
+wrap,caesar salad,0
+pizza,club sandwich,0
+pasta,club sandwich,0
+sushi,spaghetti,0
+fries,club sandwich,0
+salad,spaghetti,0
+fries,crispy fries,1
+burger,crispy fries,0
+pizza,california roll,0
+fries,grilled steak,0
+pizza,cheeseburger,0
+steak,thin crust pizza,0
+pasta,spaghetti,1
+pizza,grilled steak,0
+taco,crispy fries,0
+wrap,crispy fries,0
+pizza,spaghetti,0
+wrap,crispy fries,0
+sushi,california roll,1
+sushi,club sandwich,0
+sandwich,cheeseburger,0
+sushi,cheeseburger,0
+taco,california roll,0
+sushi,chicken taco,0
+steak,spaghetti,0
+sandwich,club sandwich,1
+wrap,chicken taco,0
+taco,thin crust pizza,0
+pizza,chicken taco,0
+sandwich,cheeseburger,0
+taco,caesar salad,0
+pasta,chicken taco,0
+wrap,spaghetti,0
+taco,grilled steak,0
+burger,crispy fries,0
+pasta,california roll,0
+salad,thin crust pizza,0
+pasta,caesar salad,0
+sushi,club sandwich,0
+sushi,caesar salad,0
+wrap,chicken wrap,1
+fries,caesar salad,0
+sandwich,chicken taco,0
+burger,chicken wrap,0
+burger,chicken taco,0
+taco,california roll,0
+pizza,cheeseburger,0
+salad,spaghetti,0
+fries,cheeseburger,0
+fries,spaghetti,0
+fries,california roll,0
+sushi,chicken taco,0
+salad,california roll,0
+fries,crispy fries,1
+fries,caesar salad,0
+steak,chicken taco,0
+sandwich,cheeseburger,0
+pizza,grilled steak,0
+pizza,caesar salad,0
+fries,thin crust pizza,0
+wrap,crispy fries,0
+sushi,thin crust pizza,0
+fries,chicken wrap,0
+steak,chicken taco,0
+taco,spaghetti,0
+pasta,cheeseburger,0
+pizza,caesar salad,0
+burger,spaghetti,0
+wrap,chicken wrap,1
+wrap,chicken taco,0
+burger,thin crust pizza,0
+salad,crispy fries,0
+sushi,crispy fries,0
+steak,thin crust pizza,0
+pasta,cheeseburger,0
+sushi,chicken wrap,0
+sushi,spaghetti,0
+pizza,california roll,0
+sandwich,thin crust pizza,0
+burger,grilled steak,0
+steak,chicken wrap,0
+taco,chicken taco,1
+burger,cheeseburger,1
+taco,california roll,0
+pizza,california roll,0
+wrap,cheeseburger,0
+steak,grilled steak,1
+sushi,spaghetti,0
+steak,cheeseburger,0
+fries,caesar salad,0
+pasta,crispy fries,0
+wrap,thin crust pizza,0
+taco,caesar salad,0
+pasta,chicken taco,0
+sandwich,cheeseburger,0
+salad,cheeseburger,0
+salad,spaghetti,0
+sandwich,grilled steak,0
+sandwich,thin crust pizza,0
+wrap,grilled steak,0
+steak,cheeseburger,0
+wrap,caesar salad,0
+pizza,spaghetti,0
+salad,grilled steak,0
+burger,chicken taco,0
+sandwich,grilled steak,0
+pasta,crispy fries,0
+sushi,california roll,1
+steak,chicken taco,0
+taco,spaghetti,0
+taco,grilled steak,0
+steak,california roll,0
+burger,club sandwich,0
+fries,caesar salad,0
+taco,california roll,0
+steak,chicken taco,0
+taco,club sandwich,0
+steak,chicken wrap,0
+salad,chicken wrap,0
+wrap,california roll,0
+fries,cheeseburger,0
+pasta,chicken wrap,0
+taco,chicken wrap,0
+fries,spaghetti,0
+salad,club sandwich,0
+sushi,thin crust pizza,0
+burger,club sandwich,0
+sushi,thin crust pizza,0
+wrap,club sandwich,0
+pasta,chicken taco,0
+salad,grilled steak,0
+sandwich,club sandwich,1
+wrap,cheeseburger,0
+sushi,chicken wrap,0
+salad,club sandwich,0
+sandwich,california roll,0
+wrap,grilled steak,0
+burger,crispy fries,0
+wrap,california roll,0
+fries,chicken taco,0
+taco,grilled steak,0
+steak,chicken wrap,0
+salad,spaghetti,0
+steak,grilled steak,1
+taco,chicken taco,1
+salad,grilled steak,0
+sandwich,spaghetti,0
+wrap,california roll,0
+burger,caesar salad,0
+steak,caesar salad,0
+wrap,grilled steak,0
+steak,chicken wrap,0
+fries,spaghetti,0
+taco,cheeseburger,0
+burger,spaghetti,0
+pizza,chicken taco,0
+taco,chicken wrap,0
+burger,grilled steak,0
+wrap,chicken taco,0
+steak,grilled steak,1
+pasta,grilled steak,0
+pasta,chicken taco,0
+sandwich,california roll,0
+fries,chicken wrap,0
+fries,grilled steak,0
+fries,spaghetti,0
+wrap,california roll,0
+taco,grilled steak,0
+pasta,grilled steak,0
+salad,cheeseburger,0
+burger,grilled steak,0
+steak,california roll,0
+salad,crispy fries,0
+wrap,club sandwich,0
+sandwich,cheeseburger,0
+pasta,caesar salad,0
+burger,grilled steak,0
+salad,grilled steak,0
+sandwich,thin crust pizza,0
+sushi,crispy fries,0
+pasta,chicken wrap,0
+steak,chicken wrap,0
+fries,chicken wrap,0
+fries,california roll,0
+pizza,spaghetti,0
+taco,thin crust pizza,0
+sushi,club sandwich,0
+sushi,chicken wrap,0
+sandwich,cheeseburger,0
+sushi,thin crust pizza,0
+sandwich,caesar salad,0
+salad,spaghetti,0
+sushi,thin crust pizza,0
+sushi,caesar salad,0
+pasta,crispy fries,0
+pasta,chicken wrap,0
+sushi,spaghetti,0
+burger,crispy fries,0
+wrap,california roll,0
+steak,spaghetti,0
+salad,cheeseburger,0
+sushi,chicken wrap,0
+pizza,chicken wrap,0
+wrap,crispy fries,0
+steak,cheeseburger,0
+steak,california roll,0
+salad,chicken taco,0
+pizza,chicken taco,0
+wrap,cheeseburger,0
+steak,grilled steak,1
+wrap,caesar salad,0
+sushi,chicken taco,0
+wrap,caesar salad,0
+pasta,crispy fries,0
+taco,cheeseburger,0
+salad,thin crust pizza,0
+salad,chicken taco,0
+burger,cheeseburger,1
+steak,chicken taco,0
+sushi,crispy fries,0
+pizza,spaghetti,0
+fries,chicken wrap,0
+pizza,spaghetti,0
+fries,grilled steak,0
+taco,grilled steak,0
+sandwich,crispy fries,0
+pasta,chicken wrap,0
+burger,spaghetti,0
+sandwich,club sandwich,1
+fries,caesar salad,0
+pasta,california roll,0
+pasta,thin crust pizza,0
+burger,crispy fries,0
+pizza,chicken wrap,0
+sandwich,chicken taco,0
+steak,grilled steak,1
+burger,grilled steak,0
+wrap,spaghetti,0
+sushi,cheeseburger,0
+burger,thin crust pizza,0
+steak,california roll,0
+sandwich,spaghetti,0
+sushi,spaghetti,0
+pasta,club sandwich,0
+burger,cheeseburger,1
+fries,caesar salad,0
+fries,chicken wrap,0
+wrap,club sandwich,0
+sandwich,chicken taco,0
+pasta,cheeseburger,0
+fries,california roll,0
+burger,chicken taco,0
+salad,club sandwich,0
+taco,crispy fries,0
+fries,california roll,0
+pizza,club sandwich,0
+salad,cheeseburger,0
+burger,chicken wrap,0
+sandwich,chicken taco,0
+taco,chicken wrap,0
+taco,chicken wrap,0
+pasta,grilled steak,0
+wrap,california roll,0
+steak,crispy fries,0
+burger,chicken wrap,0
+wrap,chicken taco,0
+salad,cheeseburger,0
+fries,crispy fries,1
+steak,cheeseburger,0
+taco,grilled steak,0
+steak,california roll,0
+steak,chicken taco,0
+pizza,caesar salad,0
+pizza,california roll,0
+pasta,thin crust pizza,0
+burger,chicken wrap,0
+pizza,california roll,0
+sandwich,california roll,0
+pizza,chicken wrap,0
+wrap,caesar salad,0
+pizza,grilled steak,0
+sushi,thin crust pizza,0
+sushi,club sandwich,0
+salad,spaghetti,0
+steak,caesar salad,0
+sushi,chicken taco,0
+burger,grilled steak,0
+sandwich,chicken wrap,0
+taco,spaghetti,0
+sandwich,caesar salad,0
+fries,club sandwich,0
+fries,club sandwich,0
+sandwich,club sandwich,1
+pasta,cheeseburger,0
+pizza,grilled steak,0
+salad,chicken wrap,0
+sandwich,spaghetti,0
+sandwich,spaghetti,0
+burger,club sandwich,0
+taco,spaghetti,0
+salad,chicken taco,0
+sandwich,crispy fries,0
+burger,chicken wrap,0
+steak,grilled steak,1
+salad,caesar salad,1
+burger,caesar salad,0
+sandwich,thin crust pizza,0
+steak,grilled steak,1
+salad,chicken wrap,0
+wrap,thin crust pizza,0
+pasta,cheeseburger,0
+steak,caesar salad,0
+sushi,chicken taco,0
+sushi,cheeseburger,0
+salad,chicken taco,0
+sandwich,chicken wrap,0
+sandwich,california roll,0
+pizza,caesar salad,0
+steak,crispy fries,0
+wrap,california roll,0
+pasta,chicken wrap,0
+fries,cheeseburger,0
+sandwich,caesar salad,0
+sushi,grilled steak,0
+salad,cheeseburger,0
+wrap,thin crust pizza,0
+pizza,chicken wrap,0
+sandwich,club sandwich,1
+pasta,crispy fries,0
+taco,california roll,0
+wrap,chicken taco,0
+steak,grilled steak,1
+pasta,grilled steak,0
+salad,cheeseburger,0
+pizza,crispy fries,0
+wrap,chicken wrap,1
+wrap,chicken taco,0
+sandwich,chicken wrap,0
+pasta,california roll,0
+sandwich,spaghetti,0
+pizza,california roll,0
+taco,grilled steak,0
+steak,thin crust pizza,0
+sushi,thin crust pizza,0
+sushi,thin crust pizza,0
+wrap,grilled steak,0
+pasta,grilled steak,0
+burger,crispy fries,0
+taco,spaghetti,0
+taco,california roll,0
+sandwich,thin crust pizza,0
+steak,california roll,0
+salad,thin crust pizza,0
+fries,club sandwich,0
+pasta,caesar salad,0
+pizza,thin crust pizza,1
+sushi,cheeseburger,0
+sushi,caesar salad,0
+salad,caesar salad,1
+burger,crispy fries,0
+pizza,cheeseburger,0
+sandwich,crispy fries,0
+wrap,chicken taco,0
+burger,cheeseburger,1
+taco,caesar salad,0
+steak,spaghetti,0
+wrap,chicken taco,0
+pizza,spaghetti,0
+sushi,chicken wrap,0
+wrap,thin crust pizza,0
+pasta,club sandwich,0
+sandwich,chicken taco,0
+pasta,chicken taco,0
+pizza,spaghetti,0
+pizza,grilled steak,0
+burger,thin crust pizza,0
+steak,grilled steak,1
+pasta,chicken taco,0
+salad,grilled steak,0
+wrap,grilled steak,0
+pasta,crispy fries,0
+pizza,california roll,0
+sushi,crispy fries,0
+taco,chicken wrap,0
+steak,caesar salad,0
+sushi,crispy fries,0
+burger,club sandwich,0
+burger,club sandwich,0
+pasta,thin crust pizza,0
+fries,chicken wrap,0
+pasta,california roll,0
+sandwich,cheeseburger,0
+burger,spaghetti,0
+pasta,thin crust pizza,0
+sandwich,thin crust pizza,0
+sushi,cheeseburger,0
+taco,chicken wrap,0
+steak,crispy fries,0
+sandwich,chicken taco,0
+pasta,cheeseburger,0
+salad,club sandwich,0
+steak,spaghetti,0
+salad,cheeseburger,0
+wrap,chicken wrap,1
+salad,grilled steak,0
+salad,california roll,0
+sandwich,grilled steak,0
+pasta,cheeseburger,0
+wrap,club sandwich,0
+sandwich,thin crust pizza,0
+fries,crispy fries,1
+taco,crispy fries,0
+sandwich,california roll,0
+wrap,chicken wrap,1
+wrap,cheeseburger,0
+taco,california roll,0
+wrap,cheeseburger,0
+salad,chicken wrap,0
+pasta,cheeseburger,0
+salad,spaghetti,0
+fries,chicken taco,0
+pasta,spaghetti,1
+sandwich,spaghetti,0
+pizza,chicken taco,0
+pizza,spaghetti,0
+sandwich,club sandwich,1
+taco,cheeseburger,0
+steak,cheeseburger,0
+pasta,grilled steak,0
+steak,spaghetti,0
+sushi,chicken taco,0
+fries,chicken wrap,0
+pizza,cheeseburger,0
+steak,crispy fries,0
+pizza,cheeseburger,0
+steak,club sandwich,0
+steak,spaghetti,0
+steak,california roll,0
+steak,caesar salad,0
+wrap,club sandwich,0
+fries,caesar salad,0
+taco,caesar salad,0
+steak,chicken wrap,0
+wrap,caesar salad,0
+wrap,cheeseburger,0
+wrap,california roll,0
+salad,club sandwich,0
+steak,club sandwich,0
+pizza,california roll,0
+pizza,chicken taco,0
+sushi,spaghetti,0
+pizza,club sandwich,0
+pasta,california roll,0
+steak,grilled steak,1
+pizza,spaghetti,0
+fries,california roll,0
+fries,cheeseburger,0
+sushi,grilled steak,0
+fries,california roll,0
+pizza,caesar salad,0
+pizza,cheeseburger,0
+steak,chicken taco,0
+pasta,cheeseburger,0
+pizza,crispy fries,0
+steak,california roll,0
+pizza,grilled steak,0
+salad,thin crust pizza,0
+salad,caesar salad,1
+burger,spaghetti,0
+wrap,cheeseburger,0
+pizza,cheeseburger,0
+wrap,grilled steak,0
+wrap,crispy fries,0
+sushi,caesar salad,0
+pasta,california roll,0
+sushi,caesar salad,0
+steak,spaghetti,0
+fries,california roll,0
+wrap,cheeseburger,0
+burger,chicken wrap,0
+sandwich,chicken wrap,0
+pizza,cheeseburger,0
+pasta,club sandwich,0
+steak,club sandwich,0
+sandwich,chicken taco,0
+taco,caesar salad,0
+salad,cheeseburger,0
+pasta,grilled steak,0
+taco,california roll,0
+pizza,spaghetti,0
+burger,spaghetti,0
+sushi,chicken taco,0
+wrap,california roll,0
+pasta,thin crust pizza,0
+burger,spaghetti,0
+salad,chicken wrap,0
+steak,chicken taco,0
+pasta,crispy fries,0
+sushi,grilled steak,0
+fries,cheeseburger,0
+fries,chicken taco,0
+fries,chicken wrap,0
+taco,crispy fries,0
+taco,cheeseburger,0
+burger,caesar salad,0
+sandwich,club sandwich,1
+pasta,chicken taco,0
+taco,club sandwich,0
+pizza,spaghetti,0
+steak,thin crust pizza,0
+fries,thin crust pizza,0
+fries,grilled steak,0
+sandwich,cheeseburger,0
+fries,california roll,0
+pizza,california roll,0
+salad,cheeseburger,0
+burger,spaghetti,0
+wrap,cheeseburger,0
+steak,grilled steak,1
+steak,caesar salad,0
+pasta,grilled steak,0
+fries,chicken taco,0
+pizza,chicken taco,0
+salad,crispy fries,0
+pasta,crispy fries,0
+pizza,chicken wrap,0
+salad,chicken wrap,0
+fries,cheeseburger,0
+salad,crispy fries,0
+burger,cheeseburger,1
+pasta,chicken taco,0
+pasta,chicken taco,0
+fries,grilled steak,0
+sushi,crispy fries,0
+pizza,grilled steak,0
+burger,cheeseburger,1
+sandwich,california roll,0
+pasta,crispy fries,0
+sandwich,crispy fries,0
+pasta,club sandwich,0
+pasta,club sandwich,0
+sushi,cheeseburger,0
+taco,california roll,0
+steak,chicken wrap,0
+fries,grilled steak,0
+sushi,crispy fries,0
+salad,thin crust pizza,0
+wrap,cheeseburger,0
+pizza,crispy fries,0
+steak,chicken taco,0
+burger,cheeseburger,1
+burger,caesar salad,0
+burger,chicken taco,0
+sushi,club sandwich,0
+sushi,chicken wrap,0
+sushi,spaghetti,0
+burger,spaghetti,0
+taco,club sandwich,0
+burger,club sandwich,0
+salad,thin crust pizza,0
+taco,california roll,0
+salad,thin crust pizza,0
+steak,spaghetti,0
+wrap,chicken taco,0
+salad,cheeseburger,0
+steak,caesar salad,0
+sandwich,chicken taco,0
+sushi,thin crust pizza,0
+fries,spaghetti,0
+pizza,crispy fries,0
+wrap,club sandwich,0
+taco,crispy fries,0
+taco,chicken wrap,0
+taco,chicken taco,1
+salad,spaghetti,0
+salad,chicken taco,0
+sandwich,cheeseburger,0
+sushi,thin crust pizza,0
+pasta,california roll,0
+taco,cheeseburger,0
+pizza,grilled steak,0
+pasta,cheeseburger,0
+wrap,california roll,0
+pizza,thin crust pizza,1
+sushi,spaghetti,0
+sandwich,california roll,0
+pizza,grilled steak,0
+taco,california roll,0
+steak,caesar salad,0
+steak,cheeseburger,0
+pizza,caesar salad,0
+taco,cheeseburger,0
+pizza,california roll,0
+pasta,club sandwich,0
+steak,chicken taco,0
+burger,crispy fries,0
+steak,chicken wrap,0
+burger,crispy fries,0
+wrap,chicken taco,0
+wrap,chicken wrap,1
+wrap,grilled steak,0
+sandwich,chicken wrap,0
+steak,spaghetti,0
+taco,crispy fries,0
+sushi,club sandwich,0
+pizza,cheeseburger,0
+sushi,california roll,1
+wrap,club sandwich,0
+pasta,club sandwich,0
+pasta,club sandwich,0
+pizza,crispy fries,0
+pasta,club sandwich,0
+steak,crispy fries,0
+pizza,thin crust pizza,1
+fries,california roll,0
+salad,spaghetti,0
+pasta,club sandwich,0
+wrap,club sandwich,0
+pasta,cheeseburger,0
+steak,caesar salad,0
+sushi,california roll,1
+pasta,club sandwich,0
+taco,crispy fries,0
+pasta,caesar salad,0
+salad,club sandwich,0
+sushi,crispy fries,0
+wrap,chicken wrap,1
+pizza,caesar salad,0
+taco,grilled steak,0
+taco,spaghetti,0
+pizza,california roll,0
+salad,club sandwich,0
+taco,thin crust pizza,0
+sushi,grilled steak,0
+pizza,club sandwich,0
+pizza,chicken taco,0
+salad,chicken taco,0
+pasta,spaghetti,1
+burger,grilled steak,0
+steak,cheeseburger,0
+pasta,thin crust pizza,0
+salad,chicken taco,0
+sushi,crispy fries,0
+sandwich,caesar salad,0
+pasta,thin crust pizza,0
+taco,cheeseburger,0
+steak,chicken taco,0
+pasta,club sandwich,0
+pizza,spaghetti,0
+salad,caesar salad,1
+burger,crispy fries,0
+sushi,spaghetti,0
+pasta,caesar salad,0
+burger,thin crust pizza,0
+burger,crispy fries,0
+salad,grilled steak,0
+sandwich,club sandwich,1
+wrap,thin crust pizza,0
+taco,cheeseburger,0
+burger,grilled steak,0
+pizza,grilled steak,0
+wrap,chicken taco,0
+pizza,crispy fries,0
+sushi,spaghetti,0
+sandwich,cheeseburger,0
+steak,grilled steak,1
+pasta,chicken taco,0
+pizza,club sandwich,0
+pasta,crispy fries,0
+sandwich,crispy fries,0
+pasta,california roll,0
+sushi,chicken wrap,0
+fries,crispy fries,1
+salad,spaghetti,0
+sandwich,spaghetti,0
+burger,california roll,0
+pizza,crispy fries,0
+fries,thin crust pizza,0
+burger,chicken wrap,0
+fries,grilled steak,0
+pasta,chicken taco,0
+fries,crispy fries,1
+fries,california roll,0
+taco,chicken wrap,0
+wrap,chicken taco,0
+fries,crispy fries,1
+sushi,california roll,1
+sushi,spaghetti,0
+fries,spaghetti,0
+taco,spaghetti,0
+pasta,crispy fries,0
+salad,caesar salad,1
+sandwich,california roll,0
+sushi,chicken taco,0
+burger,caesar salad,0
+steak,chicken wrap,0
+pasta,thin crust pizza,0
+pizza,cheeseburger,0
+wrap,cheeseburger,0
+salad,club sandwich,0
+steak,california roll,0
+burger,caesar salad,0
+pasta,california roll,0
+pasta,caesar salad,0
+steak,caesar salad,0
+sandwich,chicken taco,0
+salad,chicken taco,0
+fries,chicken wrap,0
+sushi,california roll,1
+pasta,chicken wrap,0
+sushi,cheeseburger,0
+fries,club sandwich,0
+pizza,crispy fries,0
+sushi,crispy fries,0
+sushi,cheeseburger,0
+pasta,cheeseburger,0
+taco,crispy fries,0
+wrap,chicken taco,0
+pizza,caesar salad,0
+fries,california roll,0
+pizza,chicken wrap,0
+taco,cheeseburger,0
+fries,spaghetti,0
+pasta,grilled steak,0
+steak,cheeseburger,0
+sandwich,club sandwich,1
+salad,cheeseburger,0
+salad,spaghetti,0
+salad,california roll,0
+taco,grilled steak,0
+wrap,cheeseburger,0
+sushi,spaghetti,0
+sushi,caesar salad,0
+pasta,thin crust pizza,0
+fries,thin crust pizza,0
+wrap,cheeseburger,0
+burger,cheeseburger,1
+wrap,california roll,0
+sandwich,grilled steak,0
+pasta,caesar salad,0
+taco,spaghetti,0
+burger,grilled steak,0
+steak,spaghetti,0
+taco,cheeseburger,0
+sandwich,grilled steak,0
+sandwich,cheeseburger,0
+steak,grilled steak,1
+sandwich,crispy fries,0
+fries,cheeseburger,0
+sandwich,cheeseburger,0
+burger,thin crust pizza,0
+taco,thin crust pizza,0
+fries,chicken wrap,0
+taco,chicken wrap,0
+fries,grilled steak,0
+fries,crispy fries,1
+fries,grilled steak,0
+salad,california roll,0
+burger,spaghetti,0
+pizza,cheeseburger,0
+sandwich,chicken taco,0
+sandwich,spaghetti,0
+burger,chicken taco,0
+fries,chicken taco,0
+burger,caesar salad,0
+salad,club sandwich,0
+steak,crispy fries,0
+burger,club sandwich,0
+burger,cheeseburger,1
+steak,caesar salad,0
+salad,grilled steak,0
+fries,caesar salad,0
+sushi,chicken taco,0
+fries,club sandwich,0
+sandwich,spaghetti,0
+sushi,california roll,1
+pizza,club sandwich,0
+taco,thin crust pizza,0
+wrap,caesar salad,0
+wrap,cheeseburger,0
+pizza,thin crust pizza,1
+pasta,thin crust pizza,0
+wrap,chicken taco,0
+fries,crispy fries,1
+pizza,cheeseburger,0
+fries,chicken wrap,0
+taco,cheeseburger,0
+salad,chicken taco,0
+sandwich,california roll,0
+fries,cheeseburger,0
+wrap,thin crust pizza,0
+wrap,club sandwich,0
+pizza,spaghetti,0
+burger,grilled steak,0
+steak,grilled steak,1
+sandwich,thin crust pizza,0
+sushi,caesar salad,0
+pasta,thin crust pizza,0
+wrap,chicken wrap,1
+sushi,club sandwich,0
+fries,club sandwich,0
+sandwich,thin crust pizza,0
+sushi,chicken taco,0
+wrap,chicken wrap,1
+steak,california roll,0
+sandwich,cheeseburger,0
+pizza,cheeseburger,0
+wrap,chicken taco,0
+taco,spaghetti,0
+steak,spaghetti,0
+pizza,grilled steak,0
+salad,cheeseburger,0
+sushi,crispy fries,0
+pasta,chicken taco,0
+pizza,crispy fries,0
+wrap,grilled steak,0
+burger,thin crust pizza,0
+pizza,caesar salad,0
+sandwich,club sandwich,1
+steak,chicken taco,0
+steak,chicken taco,0
+salad,caesar salad,1
+steak,club sandwich,0
+steak,california roll,0
+fries,caesar salad,0
+sandwich,grilled steak,0
+burger,california roll,0
+pasta,spaghetti,1
+burger,caesar salad,0
+pasta,cheeseburger,0
+salad,crispy fries,0
+fries,chicken taco,0
+sandwich,cheeseburger,0
+pizza,thin crust pizza,1
+wrap,cheeseburger,0
+sandwich,grilled steak,0
+sandwich,club sandwich,1
+pizza,thin crust pizza,1
+steak,california roll,0
+sushi,crispy fries,0
+wrap,chicken taco,0
+steak,spaghetti,0
+steak,california roll,0
+fries,thin crust pizza,0
+wrap,caesar salad,0
+pasta,caesar salad,0
+pasta,caesar salad,0
+sandwich,chicken wrap,0
+wrap,thin crust pizza,0
+salad,cheeseburger,0
+burger,caesar salad,0
+pasta,grilled steak,0
+taco,caesar salad,0
+sandwich,crispy fries,0
+salad,club sandwich,0
+sushi,california roll,1
+sandwich,thin crust pizza,0
+taco,chicken taco,1
+salad,thin crust pizza,0
+taco,chicken wrap,0
+salad,caesar salad,1
+steak,grilled steak,1
+burger,spaghetti,0
+steak,chicken taco,0
+burger,thin crust pizza,0
+salad,caesar salad,1
+sushi,crispy fries,0
+pizza,thin crust pizza,1
+wrap,cheeseburger,0
+pizza,spaghetti,0
+steak,caesar salad,0
+salad,chicken wrap,0
+sandwich,club sandwich,1
+sandwich,cheeseburger,0
+pasta,chicken taco,0
+pasta,spaghetti,1
+salad,thin crust pizza,0
+fries,crispy fries,1
+pasta,chicken taco,0
+pasta,crispy fries,0
+salad,thin crust pizza,0
+salad,thin crust pizza,0
+fries,cheeseburger,0
+pizza,chicken wrap,0
+sushi,chicken taco,0
+pizza,caesar salad,0
+wrap,spaghetti,0
+sandwich,chicken taco,0
+wrap,chicken wrap,1
+pasta,cheeseburger,0
+wrap,caesar salad,0
+pasta,thin crust pizza,0
+burger,thin crust pizza,0
+steak,caesar salad,0
+taco,chicken taco,1
+wrap,grilled steak,0
+burger,cheeseburger,1
+sandwich,chicken wrap,0
+fries,caesar salad,0
+salad,thin crust pizza,0
+sushi,california roll,1
+sandwich,chicken taco,0
+steak,thin crust pizza,0
+taco,cheeseburger,0
+salad,grilled steak,0
+fries,club sandwich,0
+fries,caesar salad,0
+sushi,spaghetti,0
+sandwich,club sandwich,1
+pasta,california roll,0
+steak,caesar salad,0
+sushi,club sandwich,0
+wrap,cheeseburger,0
+wrap,spaghetti,0
+salad,caesar salad,1
+sandwich,chicken taco,0
+pizza,california roll,0
+steak,chicken taco,0
+pizza,crispy fries,0
+sushi,spaghetti,0
+pasta,cheeseburger,0
+steak,spaghetti,0
+sandwich,cheeseburger,0
+pizza,crispy fries,0
+wrap,crispy fries,0
+taco,crispy fries,0
+burger,club sandwich,0
+salad,california roll,0
+pasta,crispy fries,0
+sandwich,thin crust pizza,0
+wrap,chicken taco,0
+pizza,chicken taco,0
+sushi,caesar salad,0
+fries,california roll,0
+pasta,chicken wrap,0
+wrap,crispy fries,0
+salad,club sandwich,0
+steak,crispy fries,0
+pizza,caesar salad,0
+fries,california roll,0
+burger,grilled steak,0
+pasta,club sandwich,0
+steak,chicken wrap,0
+steak,crispy fries,0
+sandwich,spaghetti,0
+pasta,caesar salad,0
+fries,california roll,0
+pizza,grilled steak,0
+burger,crispy fries,0
+pizza,california roll,0
+sushi,caesar salad,0
+sushi,cheeseburger,0
+fries,thin crust pizza,0
+taco,spaghetti,0
+pizza,cheeseburger,0
+salad,california roll,0
+sandwich,chicken taco,0
+sandwich,grilled steak,0
+pizza,chicken taco,0
+burger,caesar salad,0
+burger,california roll,0
+sandwich,chicken wrap,0
+pizza,crispy fries,0
+sushi,chicken taco,0
+fries,grilled steak,0
+burger,cheeseburger,1
+taco,caesar salad,0
+burger,grilled steak,0
+pizza,grilled steak,0
+sandwich,chicken taco,0
+sandwich,caesar salad,0
+pasta,crispy fries,0
+steak,club sandwich,0
+pasta,california roll,0
+sandwich,spaghetti,0
+fries,california roll,0
+pizza,chicken wrap,0
+wrap,chicken taco,0
+wrap,california roll,0
+fries,cheeseburger,0
+taco,california roll,0
+sushi,chicken wrap,0
+steak,thin crust pizza,0
+taco,california roll,0
+fries,cheeseburger,0
+fries,cheeseburger,0
+sushi,grilled steak,0
+sandwich,spaghetti,0
+fries,spaghetti,0
+pasta,caesar salad,0
+fries,thin crust pizza,0
+fries,california roll,0
+taco,club sandwich,0
+sandwich,caesar salad,0
+steak,grilled steak,1
+sandwich,grilled steak,0
+pasta,caesar salad,0
+sushi,caesar salad,0
+pizza,caesar salad,0
+taco,cheeseburger,0
+taco,cheeseburger,0
+pasta,spaghetti,1
+salad,california roll,0
+sandwich,thin crust pizza,0
+pasta,spaghetti,1
+taco,thin crust pizza,0
+wrap,cheeseburger,0
+pasta,crispy fries,0
+pizza,grilled steak,0
+burger,spaghetti,0
+salad,thin crust pizza,0
+fries,crispy fries,1
+pizza,chicken taco,0
+burger,california roll,0
+wrap,grilled steak,0
+fries,thin crust pizza,0
+wrap,grilled steak,0
+pasta,club sandwich,0
+taco,caesar salad,0
+sushi,caesar salad,0
+salad,chicken taco,0
+fries,california roll,0
+burger,chicken taco,0
+salad,california roll,0
+wrap,caesar salad,0
+steak,thin crust pizza,0
+wrap,chicken taco,0
+fries,chicken taco,0
+salad,chicken wrap,0
+burger,spaghetti,0
+pasta,caesar salad,0
+fries,crispy fries,1
+steak,thin crust pizza,0
+taco,chicken taco,1
+salad,crispy fries,0
+wrap,crispy fries,0
+taco,thin crust pizza,0
+steak,club sandwich,0
+pasta,club sandwich,0
+sandwich,chicken taco,0
+pasta,club sandwich,0
+pasta,spaghetti,1
+fries,spaghetti,0
+burger,spaghetti,0
+taco,spaghetti,0
+steak,crispy fries,0
+burger,crispy fries,0
+wrap,club sandwich,0
+fries,chicken wrap,0
+pasta,chicken taco,0
+pizza,chicken wrap,0
+pasta,chicken wrap,0
+taco,crispy fries,0
+salad,chicken wrap,0
+wrap,caesar salad,0
+pasta,caesar salad,0
+sushi,club sandwich,0
+sandwich,grilled steak,0
+steak,california roll,0
+burger,chicken taco,0
+burger,club sandwich,0
+pasta,chicken taco,0
+sandwich,spaghetti,0
+pizza,chicken wrap,0
+steak,california roll,0
+burger,club sandwich,0
+sandwich,california roll,0
+pizza,grilled steak,0
+salad,crispy fries,0
+burger,caesar salad,0
+fries,thin crust pizza,0
+pizza,cheeseburger,0
+wrap,california roll,0
+burger,cheeseburger,1
+salad,chicken taco,0
+taco,california roll,0
+wrap,cheeseburger,0
+salad,thin crust pizza,0
+fries,caesar salad,0
+fries,thin crust pizza,0
+salad,spaghetti,0
+sushi,crispy fries,0
+pizza,thin crust pizza,1
+pizza,cheeseburger,0
+pizza,thin crust pizza,1
+pasta,cheeseburger,0
+burger,crispy fries,0
+pizza,thin crust pizza,1
+sushi,thin crust pizza,0
+sandwich,grilled steak,0
+burger,grilled steak,0
+pasta,chicken wrap,0
+burger,chicken taco,0
+taco,chicken taco,1
+fries,cheeseburger,0
+taco,chicken taco,1
+steak,caesar salad,0
+burger,california roll,0
+burger,cheeseburger,1
+fries,caesar salad,0
+sushi,caesar salad,0
+burger,cheeseburger,1
+pasta,crispy fries,0
+sushi,crispy fries,0
+sandwich,caesar salad,0
+sushi,chicken taco,0
+pasta,grilled steak,0
+steak,caesar salad,0
+fries,chicken wrap,0
+fries,spaghetti,0
+steak,caesar salad,0
+salad,chicken taco,0
+sandwich,thin crust pizza,0
+fries,california roll,0
+salad,cheeseburger,0
+sandwich,cheeseburger,0
+steak,club sandwich,0
+sandwich,club sandwich,1
+salad,spaghetti,0
+salad,caesar salad,1
+taco,caesar salad,0
+burger,club sandwich,0
+pasta,thin crust pizza,0
+pizza,cheeseburger,0
+pasta,chicken taco,0
+pasta,chicken taco,0
+steak,thin crust pizza,0
+salad,club sandwich,0
+steak,chicken taco,0
+salad,spaghetti,0
+burger,chicken taco,0
+sushi,club sandwich,0
+sushi,thin crust pizza,0
+fries,chicken wrap,0
+sushi,caesar salad,0
+taco,chicken wrap,0
+sushi,chicken wrap,0
+burger,spaghetti,0
+sushi,thin crust pizza,0
+pizza,thin crust pizza,1
+pasta,crispy fries,0
+pizza,cheeseburger,0
+sandwich,spaghetti,0
+steak,grilled steak,1
+wrap,cheeseburger,0
+sandwich,club sandwich,1
+salad,crispy fries,0
+salad,spaghetti,0
+burger,chicken wrap,0
+burger,crispy fries,0
+sandwich,california roll,0
+burger,crispy fries,0
+sushi,spaghetti,0
+pasta,cheeseburger,0
+steak,chicken wrap,0
+wrap,chicken wrap,1
+sushi,grilled steak,0
+sandwich,spaghetti,0
+taco,thin crust pizza,0
+fries,chicken wrap,0
+sushi,crispy fries,0
+burger,spaghetti,0
+salad,california roll,0
+pizza,california roll,0
+pizza,club sandwich,0
+pasta,chicken taco,0
+taco,spaghetti,0
+burger,cheeseburger,1
+wrap,california roll,0
+burger,chicken taco,0
+salad,crispy fries,0
+salad,club sandwich,0
+pasta,caesar salad,0
+sushi,spaghetti,0
+pizza,california roll,0
+taco,crispy fries,0
+sushi,grilled steak,0
+pizza,caesar salad,0
+burger,chicken wrap,0
+pizza,california roll,0
+pasta,chicken taco,0
+pasta,club sandwich,0
+pizza,club sandwich,0
+steak,caesar salad,0
+sandwich,cheeseburger,0
+pizza,spaghetti,0
+steak,club sandwich,0
+sandwich,thin crust pizza,0
+fries,thin crust pizza,0
+pasta,club sandwich,0
+salad,california roll,0
+taco,california roll,0
+burger,cheeseburger,1
+fries,spaghetti,0
+fries,spaghetti,0
+pasta,grilled steak,0
+sandwich,thin crust pizza,0
+fries,cheeseburger,0
+sandwich,club sandwich,1
+steak,grilled steak,1
+burger,club sandwich,0
+sushi,thin crust pizza,0
+pasta,club sandwich,0
+taco,thin crust pizza,0
+sandwich,chicken wrap,0
+taco,crispy fries,0
+burger,chicken wrap,0
+burger,spaghetti,0
+steak,caesar salad,0
+wrap,spaghetti,0
+burger,spaghetti,0
+salad,crispy fries,0
+steak,chicken wrap,0
+pasta,club sandwich,0
+sushi,spaghetti,0
+wrap,crispy fries,0
+salad,thin crust pizza,0
+steak,grilled steak,1
+taco,chicken wrap,0
+steak,chicken taco,0
+steak,spaghetti,0
+sushi,california roll,1
+pizza,caesar salad,0
+fries,chicken taco,0
+sandwich,thin crust pizza,0
+taco,cheeseburger,0
+salad,chicken wrap,0
+salad,caesar salad,1
+sushi,california roll,1
+sandwich,chicken wrap,0
+sushi,cheeseburger,0
+sandwich,chicken taco,0
+steak,club sandwich,0
+salad,thin crust pizza,0
+sushi,caesar salad,0
+sushi,cheeseburger,0
+pasta,chicken wrap,0
+salad,grilled steak,0
+pizza,california roll,0
+salad,cheeseburger,0
+fries,chicken taco,0
+steak,california roll,0
+sushi,grilled steak,0
+pasta,spaghetti,1
+sandwich,chicken taco,0
+salad,club sandwich,0
+fries,chicken wrap,0
+pizza,chicken wrap,0
+taco,cheeseburger,0
+taco,california roll,0
+steak,cheeseburger,0
+pizza,chicken taco,0
+wrap,chicken taco,0
+sushi,crispy fries,0
+taco,spaghetti,0
+sushi,caesar salad,0
+salad,chicken taco,0
+pizza,crispy fries,0
+pizza,california roll,0
+steak,chicken taco,0
+sushi,crispy fries,0
+pizza,caesar salad,0
+steak,chicken taco,0
+taco,caesar salad,0
+wrap,chicken wrap,1
+pasta,spaghetti,1
+wrap,chicken taco,0
+sandwich,cheeseburger,0
+pizza,cheeseburger,0
+salad,club sandwich,0
+burger,grilled steak,0
+steak,chicken taco,0
+wrap,club sandwich,0
+burger,thin crust pizza,0
+pizza,chicken taco,0
+sandwich,chicken taco,0
+salad,crispy fries,0
+steak,chicken taco,0
+sushi,cheeseburger,0
+pizza,cheeseburger,0
+taco,spaghetti,0
+sushi,chicken taco,0
+sandwich,crispy fries,0
+salad,chicken wrap,0
+sushi,grilled steak,0
+taco,cheeseburger,0
+pasta,grilled steak,0
+steak,spaghetti,0
+steak,club sandwich,0
+pasta,spaghetti,1
+fries,california roll,0
+pasta,crispy fries,0
+burger,crispy fries,0
+fries,thin crust pizza,0
+wrap,caesar salad,0
+pasta,cheeseburger,0
+pasta,spaghetti,1
+sushi,california roll,1
+sushi,chicken wrap,0
+pasta,spaghetti,1
+wrap,california roll,0
+wrap,caesar salad,0
+burger,club sandwich,0
+pasta,california roll,0
+taco,california roll,0
+sandwich,crispy fries,0
+fries,caesar salad,0
+sushi,spaghetti,0
+wrap,cheeseburger,0
+burger,chicken taco,0
+steak,california roll,0
+fries,spaghetti,0
+burger,crispy fries,0
+fries,grilled steak,0
+pizza,thin crust pizza,1
+salad,chicken taco,0
+sandwich,chicken taco,0
+pasta,club sandwich,0
+pizza,caesar salad,0
+steak,club sandwich,0
+pizza,chicken wrap,0
+sushi,thin crust pizza,0
+pizza,chicken taco,0
+salad,chicken taco,0
+burger,chicken taco,0
+pizza,club sandwich,0
+burger,spaghetti,0
+sushi,crispy fries,0
+salad,chicken wrap,0
+taco,chicken wrap,0
+sandwich,grilled steak,0
+wrap,chicken taco,0
+sushi,crispy fries,0
+salad,california roll,0
+fries,club sandwich,0
+steak,thin crust pizza,0
+sushi,spaghetti,0
+sandwich,cheeseburger,0
+fries,spaghetti,0
+taco,caesar salad,0
+sushi,crispy fries,0
+taco,thin crust pizza,0
+taco,caesar salad,0
+pizza,grilled steak,0
+pasta,crispy fries,0
+burger,chicken taco,0
+burger,thin crust pizza,0
+fries,california roll,0
+pizza,california roll,0
+pasta,caesar salad,0
+burger,spaghetti,0
+pasta,california roll,0
+burger,crispy fries,0
+pasta,chicken taco,0
+salad,caesar salad,1
+steak,california roll,0
+taco,grilled steak,0
+pasta,spaghetti,1
+salad,chicken taco,0
+taco,cheeseburger,0
+sandwich,club sandwich,1
+wrap,caesar salad,0
+pasta,thin crust pizza,0
+sandwich,spaghetti,0
+wrap,grilled steak,0
+taco,chicken taco,1
+pizza,crispy fries,0
+sushi,crispy fries,0
+sushi,california roll,1
+sandwich,thin crust pizza,0
+steak,caesar salad,0
+sandwich,thin crust pizza,0
+fries,crispy fries,1
+pasta,caesar salad,0
+burger,cheeseburger,1
+steak,cheeseburger,0
+fries,cheeseburger,0
+salad,crispy fries,0
+wrap,club sandwich,0
+wrap,grilled steak,0
+sandwich,chicken wrap,0
+sushi,thin crust pizza,0
+pasta,chicken taco,0
+pasta,chicken wrap,0
+fries,chicken wrap,0
+steak,club sandwich,0
+sushi,club sandwich,0
+salad,grilled steak,0
+taco,spaghetti,0
+sandwich,caesar salad,0
+salad,club sandwich,0
+salad,chicken wrap,0
+fries,chicken taco,0
+pizza,grilled steak,0
+burger,grilled steak,0
+sushi,caesar salad,0
+sandwich,california roll,0
+pasta,club sandwich,0
+pizza,california roll,0
+steak,thin crust pizza,0
+pizza,chicken taco,0
+taco,crispy fries,0
+steak,crispy fries,0
+pizza,chicken taco,0
+wrap,chicken taco,0
+salad,thin crust pizza,0
+steak,crispy fries,0
+pizza,thin crust pizza,1
+burger,cheeseburger,1
+fries,crispy fries,1
+pizza,chicken taco,0
+burger,cheeseburger,1
+pizza,california roll,0
+fries,chicken wrap,0
+sandwich,caesar salad,0
+sushi,club sandwich,0
+pasta,cheeseburger,0
+salad,grilled steak,0
+sandwich,club sandwich,1
+wrap,grilled steak,0
+burger,cheeseburger,1
+fries,crispy fries,1
+sandwich,california roll,0
+pasta,chicken taco,0
+pizza,spaghetti,0
+wrap,caesar salad,0
+sushi,cheeseburger,0
+steak,club sandwich,0
+salad,spaghetti,0
+salad,chicken wrap,0
+wrap,cheeseburger,0
+taco,thin crust pizza,0
+pizza,caesar salad,0
+taco,grilled steak,0
+steak,cheeseburger,0
+pizza,chicken taco,0
+taco,crispy fries,0
+salad,cheeseburger,0
+steak,club sandwich,0
+salad,thin crust pizza,0
+pizza,chicken wrap,0
+wrap,grilled steak,0
+sushi,spaghetti,0
+salad,caesar salad,1
+burger,club sandwich,0
+burger,thin crust pizza,0
+salad,chicken taco,0
+sandwich,club sandwich,1
+pasta,thin crust pizza,0
+sandwich,crispy fries,0
+steak,crispy fries,0
+fries,thin crust pizza,0
+sushi,california roll,1
+pizza,crispy fries,0
+fries,cheeseburger,0
+burger,grilled steak,0
+fries,crispy fries,1
+salad,grilled steak,0
+fries,crispy fries,1
+steak,spaghetti,0
+fries,cheeseburger,0
+fries,cheeseburger,0
+pizza,cheeseburger,0
+sandwich,chicken wrap,0
+pizza,grilled steak,0
+sandwich,chicken wrap,0
+fries,spaghetti,0
+salad,caesar salad,1
+steak,crispy fries,0
+burger,california roll,0
+taco,chicken taco,1
+pasta,chicken taco,0
+pasta,spaghetti,1
+pasta,california roll,0
+fries,chicken taco,0
+fries,cheeseburger,0
+pizza,chicken wrap,0
+taco,grilled steak,0
+burger,crispy fries,0
+steak,grilled steak,1
+wrap,grilled steak,0
+pasta,cheeseburger,0
+taco,spaghetti,0
+wrap,crispy fries,0
+fries,thin crust pizza,0
+wrap,thin crust pizza,0
+pizza,club sandwich,0
+steak,cheeseburger,0
+pizza,cheeseburger,0
+taco,grilled steak,0
+steak,thin crust pizza,0
+burger,club sandwich,0
+salad,crispy fries,0
+burger,caesar salad,0
+salad,grilled steak,0
+taco,grilled steak,0
+fries,crispy fries,1
+sandwich,caesar salad,0
+sandwich,grilled steak,0
+fries,thin crust pizza,0
+pasta,chicken wrap,0
+burger,thin crust pizza,0
+salad,crispy fries,0
+sushi,grilled steak,0
+burger,chicken taco,0
+burger,thin crust pizza,0
+taco,chicken taco,1
+salad,grilled steak,0
+taco,chicken wrap,0
+wrap,crispy fries,0
+wrap,spaghetti,0
+sandwich,california roll,0
+salad,cheeseburger,0
+sandwich,caesar salad,0
+steak,club sandwich,0
+steak,spaghetti,0
+taco,club sandwich,0
+pizza,spaghetti,0
+fries,club sandwich,0
+fries,club sandwich,0
+sandwich,spaghetti,0
+salad,chicken wrap,0
+wrap,chicken taco,0
+wrap,spaghetti,0
+pasta,california roll,0
+pasta,crispy fries,0
+pizza,california roll,0
+wrap,crispy fries,0
+sandwich,chicken wrap,0
+wrap,thin crust pizza,0
+pasta,california roll,0
+fries,club sandwich,0
+pasta,california roll,0
+sushi,cheeseburger,0
+burger,club sandwich,0
+fries,thin crust pizza,0
+pasta,spaghetti,1
+burger,spaghetti,0
+burger,grilled steak,0
+burger,caesar salad,0
+pasta,caesar salad,0
+taco,thin crust pizza,0
+sushi,crispy fries,0
+wrap,caesar salad,0
+fries,caesar salad,0
+pasta,chicken wrap,0
+burger,california roll,0
+steak,club sandwich,0
+burger,chicken wrap,0
+taco,thin crust pizza,0
+salad,caesar salad,1
+sandwich,thin crust pizza,0
+sandwich,crispy fries,0
+salad,california roll,0
+burger,chicken taco,0
+wrap,chicken wrap,1
+sandwich,chicken wrap,0
+sandwich,caesar salad,0
+taco,caesar salad,0
+fries,crispy fries,1
+steak,thin crust pizza,0
+wrap,thin crust pizza,0
+steak,crispy fries,0
+steak,spaghetti,0
+salad,chicken wrap,0
+fries,crispy fries,1
+fries,spaghetti,0
+sandwich,thin crust pizza,0
+taco,club sandwich,0
+sushi,thin crust pizza,0
+fries,california roll,0
+sushi,club sandwich,0
+sushi,crispy fries,0
+salad,grilled steak,0
+pizza,spaghetti,0
+wrap,thin crust pizza,0
+sushi,club sandwich,0
+salad,crispy fries,0
+pasta,grilled steak,0
+burger,spaghetti,0
+salad,spaghetti,0
+taco,crispy fries,0
+sushi,chicken taco,0
+wrap,club sandwich,0
+taco,caesar salad,0
+sandwich,spaghetti,0
+pizza,chicken taco,0
+fries,chicken taco,0
+fries,chicken taco,0
+fries,grilled steak,0
+sushi,club sandwich,0
+pizza,grilled steak,0
+sushi,thin crust pizza,0
+wrap,caesar salad,0
+fries,cheeseburger,0
+fries,caesar salad,0
+taco,chicken taco,1
+steak,cheeseburger,0
+fries,chicken wrap,0
+salad,club sandwich,0
+fries,club sandwich,0
+steak,spaghetti,0
+sandwich,club sandwich,1
+wrap,california roll,0
+fries,chicken taco,0
+wrap,club sandwich,0
+wrap,club sandwich,0
+steak,cheeseburger,0
+pasta,chicken taco,0
+sandwich,california roll,0
+sandwich,caesar salad,0
+burger,thin crust pizza,0
+wrap,cheeseburger,0
+sushi,club sandwich,0
+pasta,chicken wrap,0
+pizza,thin crust pizza,1
+salad,caesar salad,1
+fries,grilled steak,0
+pasta,caesar salad,0
+wrap,spaghetti,0
+pizza,chicken taco,0
+pizza,caesar salad,0
+pasta,crispy fries,0
+taco,chicken wrap,0
+burger,chicken wrap,0
+steak,club sandwich,0
+taco,club sandwich,0
+wrap,chicken wrap,1
+taco,california roll,0
+burger,chicken wrap,0
+steak,grilled steak,1
+taco,chicken wrap,0
+fries,crispy fries,1
+taco,thin crust pizza,0
+steak,crispy fries,0
+fries,crispy fries,1
+taco,chicken taco,1
+sushi,crispy fries,0
+fries,chicken taco,0
+wrap,california roll,0
+taco,grilled steak,0

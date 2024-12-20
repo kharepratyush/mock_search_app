@@ -1,0 +1,24 @@
+SRC_DIR = .
+
+lint-isort:
+	find ${SRC_DIR} -iname '*.py' -exec python3 -m isort --check-only {} +
+
+lint-black:
+	python -m black --check --diff --skip-string-normalization --line-length 100 ${SRC_DIR}
+
+lint-flake:
+	python -m flake8 ${SRC_DIR}
+
+test-linters: lint-black lint-isort lint-flake
+
+test-pytest:
+	python -m pytest --disable-warnings .
+
+test-lua:
+	cd endpoints/ && busted .
+
+test: test-pytest test-lua test-linters
+
+format:
+	python -m black --skip-string-normalization --line-length 100 ${SRC_DIR}
+	find ${SRC_DIR} -iname '*.py' -exec python3 -m isort {} +
